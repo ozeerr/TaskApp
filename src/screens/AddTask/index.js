@@ -10,7 +10,10 @@ import AsyncStorage from '@react-native-async-storage/async-storage'
 const AddTask =  () => {
     const saveTask=async(values)=>{
         try {
-            await AsyncStorage.setItem('task',JSON.stringify(values))
+            const savedTask=await AsyncStorage.getItem('tasks')
+            let myTask=savedTask?JSON.parse(savedTask):[]
+            myTask.push(values)
+            await AsyncStorage.setItem('tasks',JSON.stringify(myTask))
         } catch (error) {
             console.log(error)
         }
