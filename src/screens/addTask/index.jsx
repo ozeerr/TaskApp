@@ -23,8 +23,8 @@ const AddTask = () => {
       <Formik
         initialValues={{
           id: uuid.v4(),
-          description: 'Yazılım ile ilgili ders çalışılacak',
-          title: 'Yazılım Dersi',
+          description: '',
+          title: '',
           startDate: null,
           endDate: null,
           category: null,
