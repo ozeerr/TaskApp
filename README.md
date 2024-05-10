@@ -43,7 +43,7 @@ In this project, you can create your own tasks and track your tasks.
 
 | Home | Task Detail | Create Task |
 | --- | --- | --- |
-| <img src="https://github.com/ozeerr/TaskApp/assets/137641188/0e6b4ff8-bae3-4d77-917c-6aebf63dabc3" alt="OnBoarding" width="100%"/> | <img src="https://github.com/ozeerr/TaskApp/assets/137641188/db69f2c3-cc2b-4406-b68f-4ed32a024e01" alt="LoginAndRegister" width="100%" /> | <img src="https://github.com/ozeerr/TaskApp/assets/137641188/a3cd9c20-8e15-4482-bb79-ca06fb17778f" alt="LoginAndRegister" width="100%"/> | 
+| <img src="https://github.com/ozeerr/TaskApp/assets/137641188/0e6b4ff8-bae3-4d77-917c-6aebf63dabc3" alt="" width="100%"/> | <img src="https://github.com/ozeerr/TaskApp/assets/137641188/db69f2c3-cc2b-4406-b68f-4ed32a024e01" alt="" width="100%" /> | <img src="https://github.com/ozeerr/TaskApp/assets/137641188/a3cd9c20-8e15-4482-bb79-ca06fb17778f" alt="" width="100%"/> | 
 
 
 
